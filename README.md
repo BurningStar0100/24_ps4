@@ -1,6 +1,6 @@
 # NAKAL: Towards a Unified Table Foundation Model
 
-<p align="center"><img src="./website/nakal.mp4" alt="Demo" width="700"/></p>
+<p align="center"><img src="./website/nakal.gif" alt="Demo" width="700"/></p>
 
 1.  📈 [High-Performance Transformers for Table Structure Recognition Need Early Convolutions](https://arxiv.org/abs/2311.05565). ShengYun Peng, Seongmin Lee, Xiaojing Wang, Rajarajeswari Balasubramaniyan, Duen Horng Chau. In *NeurIPS Second Table Representation Learning Workshop*, 2023. (Oral)
 2.  🚀 [Self-Supervised Pretraining for Table Structure Recognition Transformer](https://arxiv.org/abs/2402.15578). ShengYun Peng, Seongmin Lee, Xiaojing Wang, Rajarajeswari Balasubramaniyan, Duen Horng Chau. In *AAAI Scientific Document Understanding Workshop*, 2024. (Oral)
